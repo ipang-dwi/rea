@@ -8,5 +8,5 @@ just copy config.rasi in this repo to your rofi's config folder, usually is in /
 
 Preview :
 
-(https://raw.githubusercontent.com/ipang-dwi/merah/master/img1.png)
-([https://raw.githubusercontent.com/ipang-dwi/merah/master/img2.jpg)
+![](https://raw.githubusercontent.com/ipang-dwi/merah/master/img1.png)
+![](https://raw.githubusercontent.com/ipang-dwi/merah/master/img2.jpg)
