@@ -9,7 +9,7 @@ Preview :
 
 ![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img1.png)
 ![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img2.jpg)
-![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img3.jpg)
+![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img3.png)
 
 Feel free to reach me on :
 - https://www.firstplato.com
