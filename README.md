@@ -6,10 +6,10 @@ How to :
 - Setup your shortcut to use rofi, for example to show rofi like preview below, I use command : rofi -show drun -show-icons
 
 ## Preview :
-# merah
+### merah
 ![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img1.png)
 ![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img2.jpg)
-# kuning
+### kuning
 ![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img3.png)
 
 Feel free to reach me on :
