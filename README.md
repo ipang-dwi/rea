@@ -7,12 +7,12 @@ How to :
 
 ## Preview :
 ### merah
-![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img1.png)
-![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img2.jpg)
+![](https://raw.githubusercontent.com/ipang-dwi/rea/master/preview/img1.png)
+![](https://raw.githubusercontent.com/ipang-dwi/rea/master/preview/img2.jpg)
 ### kuning
-![](https://raw.githubusercontent.com/ipang-dwi/rea/master/img3.png)
+![](https://raw.githubusercontent.com/ipang-dwi/rea/master/preview/img3.png)
 ### abu-abu
-![](https://raw.githubusercontent.com/ipang-dwi/rea/master/abu.png)
+![](https://raw.githubusercontent.com/ipang-dwi/rea/master/preview/abu.png)
 
 Feel free to reach me on :
 - https://www.firstplato.com
